@@ -1,0 +1,8 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root...\..\..\..\..\..\program files (x86)\stmicroelectronics\st_toolset\asm\include\stm8s103f.asm.Config.0]
+ExternDep= "..\..\..\..\..\..\program files (x86)\stmicroelectronics\st_toolset\asm\include\stm8s103f.asm"
